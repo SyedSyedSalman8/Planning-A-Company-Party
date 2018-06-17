@@ -20,6 +20,6 @@ You can add nodes to the 2 predefined trees or make a new tree and pass the root
 3) Sum of Uncle/Aunt and its Nephews/Niece
 
 # Group Members
-1)15B-036-SE - Syed Salman Manzoor
-2)15B-008-SE - Muhammad Rabie Saeed
-3)15B-059-SE - Phool Raja
+1) 15B-036-SE - Syed Salman Manzoor
+2) 15B-008-SE - Muhammad Rabie Saeed
+3) 15B-059-SE - Phool Raja
