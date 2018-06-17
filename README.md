@@ -11,7 +11,7 @@ https://onlinegdb.com/SJ_ZOxVb7
 The inputs to this program are nodes of the tree (employees) and their individual conviviality rating
 
 # Output 
-The output of this program is the max possible aggregated conviviality rating of invited nodes/employees, keep in consideration the  employee - direct supervisor restriction
+The output of this program is the max possible aggregated conviviality rating of invited nodes/employees, keeping in consideration the  employee - direct supervisor restriction
 
 # Editing the program to see results
 You can add nodes to the 2 predefined trees or make a new tree and pass the root of that tree to the Find_Max_Conv() function. Note that the aggregate ratings are calculated as follows:
@@ -20,6 +20,6 @@ You can add nodes to the 2 predefined trees or make a new tree and pass the root
 3) Sum of Uncle/Aunt and its Nephews/Niece
 
 # Group Members
-15B-036-SE - Syed Salman Manzoor
-15B-008-SE - Muhammad Rabie Saeed
-15B-059-SE - Phool Raja
+1)15B-036-SE - Syed Salman Manzoor
+2)15B-008-SE - Muhammad Rabie Saeed
+3)15B-059-SE - Phool Raja
