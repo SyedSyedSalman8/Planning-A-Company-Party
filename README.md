@@ -1,5 +1,3 @@
-# Planning-A-Company-Party
-
 # Code for "Planning A Company Party" problem
 
 # Problem:
